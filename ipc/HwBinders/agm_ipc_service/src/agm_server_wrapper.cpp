@@ -62,6 +62,7 @@
  */
 
 #define LOG_TAG "agm_server_wrapper"
+#include <vector>
 #include "inc/agm_server_wrapper.h"
 #include <log/log.h>
 #include <cutils/list.h>
